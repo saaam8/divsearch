@@ -4,8 +4,8 @@ setup(
     name='divsearch',
     version='1.1.0',
     description='Adaptive Divisional Search Algorithm for high-dimensional data',
-    author='Sattam',
-    author_email='you@example.com',
+    author='Sattam R. Alharbi',
+    author_email='sum6767@gmail.com',
     url='https://github.com/saaam8/ADS-Search',
     packages=find_packages(),
     install_requires=[
